@@ -5,6 +5,7 @@
 - [What's this?](#whats-this)
 - [How can I use it?](#how-can-i-use-it)
 - [Where is this deployed? :rocket:](#where-is-this-deployed-rocket)
+- [Any env vars?](#any-env-vars)
 
 <!-- /TOC -->
 
@@ -33,3 +34,10 @@ query {
 ### Where is this deployed? :rocket:
 
 It's hosted on https://graphql-currencies.now.sh
+
+### Any env vars?
+Yes, here are their key names:
+
+- API_KEY
+- MONGODB_URI
+- PORT
